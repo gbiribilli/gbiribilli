@@ -20,9 +20,8 @@
 #### 🤖 [Bot para Jogo de Tabuleiro (C#)](https://github.com/ledros0/PI-3)  
 - Liderança no desenvolvimento de um bot autônomo usando **POO**.  
 - Foco em **código limpo e legível**.  
-
+- Implementação de **estruturas de dados** e lógica de jogo em C#.  
 #### 🎮 [Jogo da Segunda Guerra (C)](https://github.com/gbiribilli/Pi2-NA-Espanha) 
-- Implementação de **estruturas de dados** e lógica de jogo em C.  
 - Trabalho em equipe para otimização de desempenho.  
 
 🔍 **Explore todos os meus projetos [aqui](https://github.com/gbiribilli?tab=repositories)!**  
