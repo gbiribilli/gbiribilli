@@ -43,5 +43,5 @@
 ---
 
 ### 📫 **Como me encontrar**  
-📧 Email: [seu.email@exemplo.com](guibiribilli.g@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/seunome](https://www.linkedin.com/in/guilherme-biribilli-3a4a68220/)  
+📧 Email: [Contato via Email](guibiribilli.g@gmail.com)  
+🔗 LinkedIn: [Meu Linkedin](https://www.linkedin.com/in/guilherme-biribilli-3a4a68220/)  
