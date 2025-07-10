@@ -24,7 +24,8 @@
 #### 🎮 [Jogo da Segunda Guerra (C)](https://github.com/gbiribilli/Pi2-NA-Espanha) 
 - Trabalho em equipe para otimização de desempenho.  
 #### 🃏 [Desenvolvendo o Jogo UNO em C#](https://github.com/gbiribilli/UNO)
-- Ainda em desenvolvimento
+- Ainda em desenvolvimento.
+  
 🔍 **Explore todos os meus projetos [aqui](https://github.com/gbiribilli?tab=repositories)!**  
 
 ---
