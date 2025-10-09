@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Guilherme Biribilli!  
 
-🎓 Estudante de **Ciência da Computação** | 🚀 Buscando estágio em **Backend/Full-Stack**  
+🎓 Estudante de **Ciência da Computação** | 🚀 Buscando estágio em **Dados**  
 💡 Apaixonado por resolver problemas com código e aprender novas tecnologias.  
 
 ---
